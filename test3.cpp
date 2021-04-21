@@ -399,7 +399,7 @@ int main() {
 		
 		//tempIn = *a[i];// = new int[65536];
 		//tempOut = *output[i + 65536];// = new int[i + 65536];
-		int *temp1 = (int*)aligned_alloc(64, sizeof(int) * 65536);
+		//int *temp1 = (int*)aligned_alloc(64, sizeof(int) * 65536);
 
 		//////cout << "innerArr declared" << endl;
 		//int k = 0;
